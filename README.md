@@ -2,7 +2,7 @@
 
 This is a Placepicker web application built with React. The goal of this project is handling side effects and working with useEffect hook.
 
-![Screenshot with game](/src/assets/screencapture.png)
+![Screenshot with game](/public/screencapture.png)
 
 This project was created as part of the Udemy course [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
