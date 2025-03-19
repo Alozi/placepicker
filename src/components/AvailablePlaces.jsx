@@ -9,7 +9,7 @@ export default function AvailablePlaces({ onSelectPlace }) {
   const [availablePlaces, setAvailablePlaces] = useState([]);
   const [error, setError] = useState();
 
-  console.log("availablePlaces component");
+  // console.log("availablePlaces component");
 
   // Fetch available places from backend API
   useEffect(() => {
