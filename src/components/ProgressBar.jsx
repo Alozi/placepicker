@@ -5,12 +5,12 @@ export default function ProgressBar({ timer }) {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      console.log("set interval");
+      // console.log("set interval");
       setRemainingTime((prevTime) => prevTime - 10);
     }, 10);
 
     return () => {
-      console.log("clear interval");
+      // console.log("clear interval");
       clearInterval(interval);
     };
   }, []);
