@@ -1,6 +1,6 @@
 # Elegant Context
 
-This is a Placepicker web application built with React. The goal of this project is handling side effects and working with useEffect hook. Also add dummy backend part on this project and practice sending http requests to connecting to a database.
+This is a Placepicker web application built with React. The goal of this project is handling side effects and working with useEffect hook. Also add dummy backend part on this project and practice sending http requests to connecting to a database. Create custom component useFetch and use it on components.
 
 ![Screenshot with game](/public/screencapture.png)
 
